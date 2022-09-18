@@ -59,6 +59,5 @@
 
 ```js
 import forbes from 'data/forbes.json';
-
-<FriendList list={forbes} />,
+<ForbesList list={forbes} />,
 ```
