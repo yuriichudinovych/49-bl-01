@@ -29,3 +29,9 @@ export const StatisticCounter = styled.span`
   font-weight: 900;
   color: ${props => props.theme.colors.accent};
 `;
+
+export const StatisticIcon = styled.svg`
+width: 30px;
+height: 30px;
+color: ${props => props.theme.colors.dark};
+`
